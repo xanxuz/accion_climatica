@@ -173,17 +173,17 @@ input:-webkit-autofill:focus {
 .overlay:before,
 .sky-bg {
     background: #ffffff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#8a6a24));
-    background: linear-gradient(to bottom, #fcd98f 0%, #8a6a24 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75cbe7', endColorstr='#8a6a24', GradientType=0);
+    background: -webkit-gradient(linear, left top, left bottom, from(#A8EB12), to(#48773e));
+    background: linear-gradient(to bottom, #A8EB12 0%, #48773e 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75cbe7', endColorstr='#48773e', GradientType=0);
     color: #ffffff;
 }
 
 #feature-page{
     background: #ffffff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#8a6a24));
-    background: linear-gradient(to bottom, #fcd98f 0%, #8a6a24 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcd98f', endColorstr='#8a6a24', GradientType=0);
+    background: -webkit-gradient(linear, left top, left bottom, from(#A8EB12), to(#48773e));
+    background: linear-gradient(to bottom, #A8EB12 0%, #48773e 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#A8EB12', endColorstr='#48773e', GradientType=0);
 }
 
 .gray-bg {
@@ -199,7 +199,7 @@ input:-webkit-autofill:focus {
     padding: 8px 30px;
     border-radius: 50px;
     color: #ffffff;
-    background-color: #8a6a24;
+    background-color: #48773e;
     -webkit-transition: 0.3s;
     transition: 0.3s;
     border: none;
@@ -209,12 +209,12 @@ input:-webkit-autofill:focus {
 
 .button.white,
 .button:hover {
-    background-color: #fcd98f;
+    background-color: #A8EB12;
     color: #515656;
 }
 
 .button.white:hover {
-    background-color: #8a6a24;
+    background-color: #48773e;
     color: #ffffff;
 }
 
@@ -348,7 +348,7 @@ input:-webkit-autofill:focus {
 }
 
 .mainmenu-area:hover {
-    background-color: #8a6a24;
+    background-color: #48773e;
 }
 
 .mainmenu-area:hover a{
@@ -361,7 +361,7 @@ input:-webkit-autofill:focus {
 }
 
 .mainmenu-area.affix {
-    background-color: #8a6a24;
+    background-color: #48773e;
 }
 .mainmenu-area .logo {
     margin-top: 22px;
@@ -370,7 +370,7 @@ input:-webkit-autofill:focus {
     height: 37px;
     background-image: url('images/logo-pyc2.png');
     background-size: cover;
-} 
+}
 .mainmenu-area.affix .logo, .mainmenu-area:hover .logo {
     margin-top: 22px;
     margin-bottom: 18px;
@@ -740,7 +740,7 @@ input:-webkit-autofill:focus {
     top: 20px;
     width: 36px;
     height: 36px;
-    background: #8a6a24;
+    background: #48773e;
     border-radius: 50%;
     -webkit-transition: 0.3s;
     transition: 0.3s;
@@ -895,10 +895,10 @@ preloader
     left: 0;
     width: 100%;
     height: 100%;
-    background: #fcd98f;
-    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#8a6a24));
-    background: linear-gradient(to bottom, #fcd98f 0%, #8a6a24 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcd98f', endColorstr='#8a6a24', GradientType=0);
+    background: #A8EB12;
+    background: -webkit-gradient(linear, left top, left bottom, from(#A8EB12), to(#48773e));
+    background: linear-gradient(to bottom, #A8EB12 0%, #48773e 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#A8EB12', endColorstr='#48773e', GradientType=0);
     z-index: 99999999999;
 }
 
